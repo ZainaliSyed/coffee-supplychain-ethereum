@@ -74,7 +74,7 @@ git clone https://github.com/imperialsoftech/coffee-supplychain-ethereum
 cd coffee-supplychain-ethereum/
 ```
 
-**Update truffle.js **
+**Update truffle.js**
 
 ```
 var HDWalletProvider = require("truffle-hdwallet-provider");
